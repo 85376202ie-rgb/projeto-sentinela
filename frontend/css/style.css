@@ -70,3 +70,9 @@ button:hover{
   padding:5px 10px;
   border-radius:6px;
 }
+
+.logo {
+    width: 120px;
+    display: block;
+    margin: 0 auto 20px;
+}
