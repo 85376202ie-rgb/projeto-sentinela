@@ -6,7 +6,7 @@
     "start": "node backend/server.js"
   },
   "dependencies": {
-    "multer": "github:expressjs/multer"
+    "multer": "github:expressjs/multer",
     "cors": "^2.8.5",
     "express": "^5.2.1"
   },
